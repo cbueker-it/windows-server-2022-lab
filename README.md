@@ -55,13 +55,13 @@ I reviewed Windows Security settings to confirm firewall protection across netwo
 
 Skills Practiced
 
-Windows Server 2022 administration
-Server Manager navigation
-Windows Update review
-Service monitoring
-Event log analysis
-Disk management review
-Firewall verification
+- Windows Server 2022 administration
+- Server Manager navigation
+- Windows Update review
+- Service monitoring
+- Event log analysis
+- Disk management review
+- Firewall verification
 
 Summary
 
