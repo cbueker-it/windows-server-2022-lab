@@ -1,6 +1,6 @@
-# Windows Server 2022 Lab
+**Windows Server 2022 Lab**
 
-This project documents a hands-on Windows Server 2022 lab built in Oracle VM VirtualBox to practice core server administration tasks. The lab focuses on local server review, update management, services, system logs, storage layout, and firewall settings.
+I built this hands-on Windows Server 2022 lab in Oracle VM VirtualBox to practice core server administration tasks. This shows local server review, update management, service monitoring, system log review, storage management, and firewall configuration.
 
 Lab Objectives
 - Review Windows Server 2022 administrative tools
@@ -66,3 +66,7 @@ Skills Practiced
 Summary
 
 This lab demonstrates practical Windows Server administration inside a virtual environment. It shows core operating system tasks commonly used in IT support and junior systems administration work.
+
+Navigation
+
+[`Back to GitHub Profile`](https://www.github.com/cbueker-it)
